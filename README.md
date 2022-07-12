@@ -19,4 +19,4 @@ It is explained how we customize the loss in XGBoost showing several examples.
 **03_mlflow.ipynb:** In this notebook we learn how to use mlflow or experiment tracking, when results are stored in a local folder or a sqlite database. The article can be found on [medium](https://medium.com/@falbrechtg/getting-started-with-mlflow-tracking-46a0089d6a73)
 
 ## Easy analyze your Data and ML model using Evidently AI
-**04_evidently.ipynb:** In this notebook we consider the regression problem of predicting house prices and explore how we can use Evidently AI dashboards and profiles to monitor our data and model. 
+**04_evidently.ipynb:** In this notebook we consider the regression problem of predicting house prices and explore how we can use Evidently AI dashboards and profiles to monitor our data and model. The article can be found on [medium](https://medium.com/@falbrechtg/easy-analysis-of-your-data-and-ml-model-using-evidently-ai-830ef0c1c4fd)
