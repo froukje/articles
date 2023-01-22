@@ -20,3 +20,9 @@ It is explained how we customize the loss in XGBoost showing several examples.
 
 ## Easy analyze your Data and ML model using Evidently AI
 **04_evidently.ipynb:** In this notebook we consider the regression problem of predicting house prices and explore how we can use Evidently AI dashboards and profiles to monitor our data and model. The article can be found on [medium](https://medium.com/@pumalinML/easy-analysis-of-your-data-and-ml-model-using-evidently-ai-830ef0c1c4fd)
+
+## Decision Trees for Classification - Complete Example
+**05_decision_trees_classification.ipynb:** An introduction to Decision Trees for  Classification using a simplied, but complete example. The article can be found in [Towards Data Science / Medium](https://towardsdatascience.com/decision-trees-for-classification-complete-example-d0bc17fcf1c2)
+
+## Introduction to OyTorch
+**06_pytorch_introduction.ipynb:** An introduction to the Deep Learning Workflow in PyTorch with a concrete example. 
